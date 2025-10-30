@@ -7,7 +7,7 @@ const testimonials = [
       "Gradient Tweet is a game-changer! I create stunning tweet images in seconds without ever leaving ChatGPT. My engagement has gone up significantly.",
     author: "Sarah Chen",
     role: "Content Creator",
-    avatar: "/testimonials/1.jpg",
+    avatar: "https://i.pravatar.cc/150?img=47",
     fallback: "SC",
   },
   {
@@ -15,7 +15,7 @@ const testimonials = [
       "Finally, a tool that makes beautiful social media graphics without the complexity of Canva. The gradients are gorgeous and it's so fast!",
     author: "Marcus Rodriguez",
     role: "Social Media Manager",
-    avatar: "/testimonials/2.jpg",
+    avatar: "https://i.pravatar.cc/150?img=33",
     fallback: "MR",
   },
   {
@@ -23,7 +23,7 @@ const testimonials = [
       "As a creator, time is everything. Gradient Tweet lets me focus on my message while it handles the design. Absolutely love it!",
     author: "Jamie Lin",
     role: "Digital Marketer",
-    avatar: "/testimonials/3.jpg",
+    avatar: "https://i.pravatar.cc/150?img=20",
     fallback: "JL",
   },
 ];

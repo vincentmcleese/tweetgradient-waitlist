@@ -35,7 +35,7 @@ export function Hero() {
 
             {/* Avatar Group */}
             <div className="flex justify-center mb-8 animate-fade-in-delay-2">
-              <AvatarGroup count={1247} />
+              <AvatarGroup />
             </div>
 
             {/* CTA Buttons */}
